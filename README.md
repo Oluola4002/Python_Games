@@ -34,8 +34,6 @@ Make sure you have **Python 3.x** installed on your system.
 
 ### Running Locally
 1. Clone this repository or download the source code file:
-  ### Running Locally
-1. Clone this repository or download the source code file:
    ```bash
    git clone [https://github.com/Oluola4002/Python_Games.git](https://github.com/Oluola4002/Python_Games.git)
    cd Python_Games
